@@ -2,7 +2,7 @@
 
 PRD Refinado no Copilot Web:
 
-```
+```markdown
 # PRD – Organizador de Finanças Pessoais: Granaê
 ## 1. Visão do Produto
 Construir uma aplicação web de finanças pessoais baseada em conversas em linguagem natural, permitindo que os usuários registrem receitas, despesas e metas financeiras de maneira simples e intuitiva.
